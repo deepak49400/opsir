@@ -1,1 +1,2 @@
 # opsir
+add configure
